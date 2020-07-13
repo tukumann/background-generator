@@ -1,3 +1,3 @@
 # background-generator
-A site on which you can play with gradients' colours
+This is a simple site on which you can play with gradients' colours
 :)
