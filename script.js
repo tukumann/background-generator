@@ -23,5 +23,5 @@ function setHex() {
 
 setHex();
 
-color1.addEventListener("change", function(){setHex(); console.log("hello, Ivan") });
-color2.addEventListener("change", function(){setHex(); console.log("hello, Timofei") });
+color1.addEventListener("change", function(){setHex();});
+color2.addEventListener("change", function(){setHex();});
