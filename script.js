@@ -18,7 +18,8 @@ color2.addEventListener("input", setGradient);
 function setHex() {
 	var color1 = document.getElementsByName('color1')[0].value;
 	var color2 = document.getElementsByName('color2')[0].value;
-	document.getElementById('hex').innerHTML = color1 + " " + color2;
+	document.getElementById('hex1').innerHTML = color1;
+	document.getElementById('hex2').innerHTML = color2;
 }
 
 setHex();
